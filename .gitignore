@@ -5,3 +5,4 @@ target
 replit.nix
 .cache
 vendor
+.cargo
