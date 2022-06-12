@@ -1,0 +1,8 @@
+[package]
+name = "lang"
+version = "0.0.1"
+
+[dependencies]
+logos = "0.12.0"
+
+# https://doc.rust-lang.org/cargo/reference/manifest.html

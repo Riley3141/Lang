@@ -1,0 +1,13 @@
+run = "cargo test"
+entrypoint = "src/main.rs"
+
+[packager]
+language = "rust"
+  [packager.features]
+  packageSearch = false
+  guessImports = false
+
+[languages.rust]
+pattern = "**/*.rs"
+    [languages.rust.languageServer]
+    start = ["rust-analyzer"]
