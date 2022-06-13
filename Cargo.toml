@@ -4,6 +4,5 @@ version = "0.0.1"
 
 [dependencies]
 logos = "0.12.0"
-pest = ""
 
 # https://doc.rust-lang.org/cargo/reference/manifest.html
