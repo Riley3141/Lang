@@ -1,5 +1,4 @@
 run = "cargo test"
-language = "rust"
 entrypoint = "src/main.rs"
 
 [packager]
