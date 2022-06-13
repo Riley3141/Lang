@@ -1,6 +1,5 @@
 extern crate logos;
 
-mod parser;
 mod compiler;
 mod runner;
 
